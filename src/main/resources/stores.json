@@ -1,0 +1,30 @@
+{
+  "11432": {
+    "store": "Магнит",
+    "categories": [
+      {
+        "category": "Овощи, фрукты, орехи",
+        "subCategory": "Зелень и салаты",
+        "link": "magnit/c/ovoshchi-frukti-orekhi/zelen-salati-n?sid=11432",
+        "isAdult": false
+      },
+      {
+        "category": "Овощи, фрукты, орехи",
+        "subCategory": "Овощи",
+        "link": "magnit/c/ovoshchi-frukti-orekhi/ovoshchi?sid=11432",
+        "isAdult": false
+      }
+    ]
+  },
+  "1": {
+    "store": "Метро",
+    "categories": [
+      {
+        "category": "Алкоголь",
+        "subCategory": "Водка",
+        "link": "metro/c/alkogol-cc137d2/vodka?sid=1",
+        "isAdult": false
+      }
+    ]
+  }
+}
